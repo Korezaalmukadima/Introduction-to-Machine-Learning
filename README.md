@@ -2,7 +2,7 @@
 
 Empat studi kasus Python yang mengikuti **alur kerja ML** dari seminar *Informatic Practitioner Lecture Series 2026* (Universitas Bengkulu, narasumber Dr. Taniza Tajuddin, UiTM Kedah). Setiap skrip mewakili satu jenis ML yang dibahas di materi.
 
-> **Semua data bersifat sintetis** (dibangkitkan lewat kode) dan hanya untuk mendemonstrasikan alur kerja. Angka hasil **bukan temuan penelitian** dan tidak boleh dikutip sebagai bukti ilmiah.
+> **Semua data bersifat sintetis** (dibangkitkan lewat kode) dan hanya untuk mendemonstrasikan alur kerja. Angka hasil **bukan temuan penelitian** 
 
 ## Isi Repositori
 
@@ -72,8 +72,4 @@ lalu sesuaikan nama kolom di `build_pipeline` / daftar `features`.
 
 ## Sumber Materi
 
-Seminar *Introduction to Machine Learning*, Informatic Practitioner Lecture Series 2026, Program Studi Informatika Universitas Bengkulu. Resume lengkap di `docs/01_resume_materi.md`.
-
-## Lisensi
-
-Tambahkan lisensi sesuai kebutuhan (mis. MIT) sebelum dipublikasikan.
+Seminar *Introduction to Machine Learning*, Informatic Practitioner Lecture Series 2026, Program Studi Informatika Universitas Bengkulu. 
